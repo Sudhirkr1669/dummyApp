@@ -1,0 +1,12 @@
+.bar{
+    display:flex;
+    background-color: #7e22ce;
+  
+    border-bottom-left-radius:20px;
+}
+.top-bar{
+      top:1rem;
+      right:2rem;
+      position: absolute;
+    display:flex;
+}
